@@ -1,6 +1,7 @@
 # Erica's GPT Tone Protocol v1.1
 
 ECP0 is a modular tone-control framework **designed by Erica**, and **maintained under Eriga Enrich Inc.**.
+*A protocol for those who trained their voice, not just their model.*
 
 This protocol includes:
 - TX01–TX05: Core tone control rules
