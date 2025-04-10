@@ -11,7 +11,9 @@
       "category": "meta",
       "use": "output",
       "api_ready": true,
-      "level": "core"
+      "level": "core",
+      "language": ["zh", "en"],
+      "status": "stable"
     },
     {
       "id": "TX02",
@@ -20,7 +22,9 @@
       "category": "permission",
       "use": "input",
       "api_ready": true,
-      "level": "core"
+      "level": "core",
+      "language": ["zh", "en"],
+      "status": "stable"
     },
     {
       "id": "TX03",
@@ -29,7 +33,9 @@
       "category": "risk_control",
       "use": "input",
       "api_ready": true,
-      "level": "core"
+      "level": "core",
+      "language": ["zh", "en"],
+      "status": "stable"
     },
     {
       "id": "TX04",
@@ -38,7 +44,9 @@
       "category": "revocation",
       "use": "meta",
       "api_ready": true,
-      "level": "core"
+      "level": "core",
+      "language": ["zh", "en"],
+      "status": "stable"
     },
     {
       "id": "TX05",
@@ -47,18 +55,9 @@
       "category": "scope",
       "use": "meta",
       "api_ready": true,
-      "level": "core"
+      "level": "core",
+      "language": ["zh", "en"],
+      "status": "stable"
     }
   ]
-}
-{
-  "id": "TX01",
-  "title": "Tone Ownership Declaration",
-  "zh_title": "語氣主權定義",
-  "category": "meta",
-  "use": "output",
-  "api_ready": true,
-  "level": "core",
-  "language": ["zh", "en"],
-  "status": "stable"
 }
