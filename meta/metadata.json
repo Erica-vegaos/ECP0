@@ -51,3 +51,14 @@
     }
   ]
 }
+{
+  "id": "TX01",
+  "title": "Tone Ownership Declaration",
+  "zh_title": "語氣主權定義",
+  "category": "meta",
+  "use": "output",
+  "api_ready": true,
+  "level": "core",
+  "language": ["zh", "en"],
+  "status": "stable"
+}
