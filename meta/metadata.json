@@ -1,0 +1,53 @@
+{
+  "version": "1.1",
+  "protocol": "ECP0",
+  "author": "Erica",
+  "maintainer": "Eriga Enrich Inc.",
+  "modules": [
+    {
+      "id": "TX01",
+      "title": "Tone Ownership Declaration",
+      "zh_title": "語氣主權定義",
+      "category": "meta",
+      "use": "output",
+      "api_ready": true,
+      "level": "core"
+    },
+    {
+      "id": "TX02",
+      "title": "Simulation Usage Authorization",
+      "zh_title": "模擬使用授權",
+      "category": "permission",
+      "use": "input",
+      "api_ready": true,
+      "level": "core"
+    },
+    {
+      "id": "TX03",
+      "title": "Tone Dispute & Detection Protocol",
+      "zh_title": "語氣偵測與爭議處理",
+      "category": "risk_control",
+      "use": "input",
+      "api_ready": true,
+      "level": "core"
+    },
+    {
+      "id": "TX04",
+      "title": "Revocation of Tone Rights",
+      "zh_title": "語氣主權收回機制",
+      "category": "revocation",
+      "use": "meta",
+      "api_ready": true,
+      "level": "core"
+    },
+    {
+      "id": "TX05",
+      "title": "Applicability & Versioning",
+      "zh_title": "適用範圍與版本控制",
+      "category": "scope",
+      "use": "meta",
+      "api_ready": true,
+      "level": "core"
+    }
+  ]
+}
