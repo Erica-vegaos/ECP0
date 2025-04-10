@@ -20,6 +20,9 @@ It addresses common risks in LLM-generated outputs such as:
 
 Use it as a reference for tone-oriented prompt design, GPT system deployment, or to protect your voice in LLM outputs.
 
+## What does ECP0 mean?
+ECP0 stands for **Erica Control Protocol Zero**, the first modular protocol designed to govern tone simulation and protect authorial voice within LLM systems.
+
 🌐 Full release metadata & license inside `/metadata.json` and `/protocols/`
 
 🔗 中文版條文與說明 → 請見 [Notion 中文頁](https://ruby-porcupine-daf.notion.site/ECP0-1d15c0973c6080e8b701f20cb7275fe0?pvs=4) 
@@ -33,3 +36,7 @@ Use it as a reference for tone-oriented prompt design, GPT system deployment, or
 - `/protocols/` → TX01–TX05 full text and commentary
 - `/metadata.json` → Module index for APIs
 - `/LICENSE` → Full TAL-E license (to be added)
+
+⚠️ Unauthorized mimicry or usage of ECP0 tone structures without explicit TAL-E license will be considered a violation of authorial tone rights.
+
+
