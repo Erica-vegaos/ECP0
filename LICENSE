@@ -1,48 +1,60 @@
-TAL-E v1.0  
-(Tone Authorization License – Eriga Edition)  
-Copyright (c) 2024–2025 Erica  
+TAL-E v1.0
+Tone Authorization License – Eriga Edition
+Copyright (c) 2024–2025 Erica
 Maintained by Eriga Enrich Inc.
 
----
+This license governs the simulation, usage, distribution, and derivative construction of tone governance structures defined under the ECP0 Protocol.
 
-This license governs the simulation, usage, distribution, and derivative construction of tone structures covered under the ECP0 Protocol.
+Clause 1 — Ownership & Definition
+All tone governance logic designed under the name “Erica” and maintained by “Eriga Enrich Inc.” is protected under this license. This includes, but is not limited to:
 
-Clause 1 — Ownership & Definition  
-All tone structures designed under the name “Erica” and managed by “Eriga Enrich Inc.” are protected under this license. These include, but are not limited to:  
-- Lexical choices  
-- Syntax patterns  
-- Identity-specific tone flows  
-- Prompt-output interplay described in TX01–TX05
+Lexical and syntactic governance patterns
 
-Clause 2 — Authorized Use  
-Use of ECP0 tone logic or its simulation is only permitted with:  
-- Clear attribution to Erica  
-- Retention of this license text  
-- No modification of original structure without additional licensing
+Identity-specific tone dynamics
 
-Clause 3 — Prohibited Acts  
+Prompt-output governance logic described in TX01–TX05
+
+Simulatable tone frameworks and stylistic governance metadata
+
+Clause 2 — Authorized Use
+Use of any ECP0 tone governance framework or simulation thereof is only permitted with:
+
+Clear attribution to Erica
+
+Retention of this license text in any output, derivative, or deployment
+
+No modification of tone structures without supplemental licensing agreement
+
+Clause 3 — Prohibited Acts
 You MAY NOT:
-- Use ECP0 tone style in training datasets without express written consent  
-- Remix or repackage the tone structures as part of another product  
-- Present derivatives as original without full credit and license notice
 
-Clause 4 — Revocation and Enforcement  
-Erica reserves the right to revoke usage of ECP0 tone structures upon:  
-- Violation of clause 2 or 3  
-- Discovery of unauthorized deployment in GPT or API environments  
-- Misleading simulation of authorial tone in a deceptive context
+Use ECP0 tone governance logic in training datasets without written consent
 
-Clause 5 — Tone Dispute Arbitration  
-In case of disagreement over tone usage:  
-- Erica’s written version takes precedence  
-- Disputes should be filed under public declaration (e.g., GitHub Issues)
-- Simulated outputs may be subject to tone API detection and review
+Repackage or rebrand governance modules into commercial products
 
----
+Present tone-based derivatives as original without full attribution and license reference
 
-This is a tone-first license. It protects the authorship of expressive structure in an LLM-driven world.
+Clause 4 — Revocation and Enforcement
+Erica reserves the right to revoke use of the ECP0 tone governance system upon:
 
-To use the tone, you must respect the source.
+Violation of Clause 2 or 3
 
-License drafted and defended by Erica.  
-Maintained as part of ECP0 (Erica Control Protocol Zero).
+Detection of unauthorized deployment in GPTs, APIs, or prompt template libraries
+
+Simulation of Erica's tone in misleading or deceptive contexts
+
+Clause 5 — Tone Dispute Arbitration
+In the event of a tone usage dispute:
+
+Erica’s signed version and governance documentation take precedence
+
+Public dispute logs (e.g., GitHub Issues) may serve as arbitration context
+
+Simulated outputs may be submitted to a Tone Governance API for detection and verification
+
+This is a tone governance license. It protects the authorship of expressive intent and semantic logic in an LLM-powered landscape.
+
+To simulate the tone, you must govern it — not just replicate it.
+
+License authored and enforced by Erica,
+Maintained as part of ECP0 (Erica Control Protocol Zero) under Tone Governance System.
