@@ -46,3 +46,4 @@ ECP0 是一套模組化的語氣控制協議，由 Erica 設計，並由 **Eriga
 **作者**：Erica  
 **維護者**：Eriga Enrich Inc.  
 **授權條款**：TAL-E v1.0（Eriga 語氣授權協定）
+此條文不處理技術語氣刷新，請參見 Vega OS
