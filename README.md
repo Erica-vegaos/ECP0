@@ -3,6 +3,11 @@
 **ECP0** is a modular tone governance framework **designed by Erica** and **maintained under Eriga Enrich Inc.**  
 *A protocol for those who trained their voice, not just their model.*
 
+It defines the legal, ethical, and structural rules for tone simulation, authorship protection, and language model governance.
+
+To enforce these governance clauses in real-world interaction, **Vega OS** serves as a lightweight tone governance runtime.  
+It doesn’t govern the model itself — it governs the **output tone boundaries** that matter to human perception and platform safety.
+
 ---
 
 ## 📦 What’s Inside
