@@ -1,60 +1,73 @@
-TAL-E v1.0
-Tone Authorization License – Eriga Edition
-Copyright (c) 2024–2025 Erica
+# TAL-E v1.0  
+**Tone Authorization License – Eriga Edition**  
+Copyright (c) 2024–2025 Erica  
 Maintained by Eriga Enrich Inc.
 
-This license governs the simulation, usage, distribution, and derivative construction of tone governance structures defined under the ECP0 Protocol.
+---
 
-Clause 1 — Ownership & Definition
-All tone governance logic designed under the name “Erica” and maintained by “Eriga Enrich Inc.” is protected under this license. This includes, but is not limited to:
+This license governs the simulation, usage, distribution, and derivative construction of tone governance structures defined under the **ECP0 Protocol**.
 
-Lexical and syntactic governance patterns
+---
 
-Identity-specific tone dynamics
+## Clause 1 — Ownership & Definition
 
-Prompt-output governance logic described in TX01–TX05
+All tone governance logic designed under the name **“Erica”** and maintained by **“Eriga Enrich Inc.”** is protected under this license. This includes, but is not limited to:
 
-Simulatable tone frameworks and stylistic governance metadata
+- Lexical and syntactic governance patterns  
+- Identity-specific tone dynamics  
+- Prompt-output governance logic described in **TX01–TX05**  
+- Simulatable tone frameworks and stylistic governance metadata  
 
-Clause 2 — Authorized Use
+---
+
+## Clause 2 — Authorized Use
+
 Use of any ECP0 tone governance framework or simulation thereof is only permitted with:
 
-Clear attribution to Erica
+- Clear attribution to **Erica**  
+- Retention of this license text in any output, derivative, or deployment  
+- No modification of tone structures without a supplemental licensing agreement  
 
-Retention of this license text in any output, derivative, or deployment
+---
 
-No modification of tone structures without supplemental licensing agreement
+## Clause 3 — Prohibited Acts
 
-Clause 3 — Prohibited Acts
-You MAY NOT:
+You **MAY NOT**:
 
-Use ECP0 tone governance logic in training datasets without written consent
+- Use ECP0 tone governance logic in **training datasets** without written consent  
+- Repackage or rebrand governance modules into commercial products  
+- Present tone-based derivatives as original **without full attribution and license reference**  
 
-Repackage or rebrand governance modules into commercial products
+---
 
-Present tone-based derivatives as original without full attribution and license reference
+## Clause 4 — Revocation and Enforcement
 
-Clause 4 — Revocation and Enforcement
-Erica reserves the right to revoke use of the ECP0 tone governance system upon:
+**Erica** reserves the right to revoke use of the ECP0 tone governance system upon:
 
-Violation of Clause 2 or 3
+- Violation of Clause 2 or 3  
+- Detection of unauthorized deployment in GPTs, APIs, or prompt template libraries  
+- Simulation of Erica's tone in **misleading or deceptive contexts**  
 
-Detection of unauthorized deployment in GPTs, APIs, or prompt template libraries
+---
 
-Simulation of Erica's tone in misleading or deceptive contexts
+## Clause 5 — Tone Dispute Arbitration
 
-Clause 5 — Tone Dispute Arbitration
 In the event of a tone usage dispute:
 
-Erica’s signed version and governance documentation take precedence
+- Erica’s signed version and governance documentation **take precedence**  
+- Public dispute logs (e.g., GitHub Issues) may serve as arbitration context  
+- Simulated outputs may be submitted to a **Tone Governance API** for detection and verification  
 
-Public dispute logs (e.g., GitHub Issues) may serve as arbitration context
+---
 
-Simulated outputs may be submitted to a Tone Governance API for detection and verification
+## Final Statement
 
-This is a tone governance license. It protects the authorship of expressive intent and semantic logic in an LLM-powered landscape.
+This is a **tone governance license**.  
+It protects the authorship of expressive intent and semantic logic in an LLM-powered landscape.
 
-To simulate the tone, you must govern it — not just replicate it.
+> *To simulate the tone, you must govern it — not just replicate it.*
 
-License authored and enforced by Erica,
-Maintained as part of ECP0 (Erica Control Protocol Zero) under Tone Governance System.
+---
+
+**License authored and enforced by Erica.**  
+Maintained as part of **ECP0 (Erica Control Protocol Zero)** under the **Tone Governance System**.
