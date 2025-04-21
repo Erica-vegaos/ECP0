@@ -1,77 +1,68 @@
-# Erica's GPT Tone Governance Protocol v1.1
+Erica's GPT Tone Governance Protocol v1.1 (2025/04/21)
 
-**ECP0** is a modular tone governance framework **designed by Erica** and **maintained under Eriga Enrich Inc.**  
-*A protocol for those who trained their voice, not just their model.*
+ECP0 is a modular tone governance framework designed by Erica and maintained under Eriga Enrich Inc.A protocol for those who trained their voice, not just their model.
 
 It defines the legal, ethical, and structural rules for tone simulation, authorship protection, and language model governance.
 
-To enforce these governance clauses in real-world interaction, **Vega OS** serves as a lightweight tone governance runtime.  
-It doesn’t govern the model itself — it governs the **output tone boundaries** that matter to human perception and platform safety.
+To enforce these governance clauses in real-world interaction, Vega OS serves as a lightweight tone governance runtime.It doesn’t govern the model itself — it governs the output tone boundaries that matter to human perception and platform safety.
 
----
+📦 What’s Inside
 
-## 📦 What’s Inside
+TX01–TX05: Core tone governance rules
 
-- **TX01–TX05**: Core tone governance rules  
-- **TAL-E License**: Usage rights and protection  
-- **Metadata**: Engineering structure for API deployment  
+TAL-E License: Usage rights and protection
 
-⚠️ *Do not remix, mimic, or repackage without explicit credit and TAL-E compliance.*
+Metadata: Engineering structure for API deployment
 
----
+⚠️ Do not remix, mimic, or repackage without explicit credit and TAL-E compliance.
 
-## 🧭 About ECP0 Protocol
+🧭 About ECP0 Protocol
 
-**ECP0 (Erica Control Protocol Zero)** is a modular tone governance protocol designed to manage language model tone simulation, define simulation boundaries, and protect authorial voice.  
-It is developed by **Erica** and maintained under **Eriga Enrich Inc.**
+ECP0 (Erica Control Protocol Zero) is a modular tone governance protocol designed to manage language model tone simulation, define simulation boundaries, and protect authorial voice.It is developed by Erica and maintained under Eriga Enrich Inc.
 
 This protocol addresses common risks in LLM-generated outputs:
 
-- Over-personalized tone mimicry  
-- Unintended simulation of user identity  
-- Output loops and hallucinated familiarity  
+Over-personalized tone mimicry
+
+Unintended simulation of user identity
+
+Output loops and hallucinated familiarity
 
 Use ECP0 as a reference for:
 
-- Tone-governed prompt design  
-- GPT deployment tone control  
-- Protecting expressive authorship in LLMs
+Tone-governed prompt design
 
----
+GPT deployment tone control
 
-## ❓ What does ECP0 mean?
+Protecting expressive authorship in LLMs
 
-**ECP0** stands for *Erica Control Protocol Zero* —  
-The first modular tone governance framework built to:
+❓ What does ECP0 mean?
 
-- Formalize tone simulation boundaries  
-- Define ethical reuse and simulation scope  
-- Secure authorial tone identity within LLM systems
+ECP0 stands for Erica Control Protocol Zero —The first modular tone governance framework built to:
 
----
+Formalize tone simulation boundaries
 
-## 📂 Folder Structure
+Define ethical reuse and simulation scope
 
-- `/protocols/` → TX01–TX05 full text + commentary  
-- `/metadata.json` → Governance module index for APIs  
-- `/LICENSE` → Full TAL-E license (to be added)
+Secure authorial tone identity within LLM systems
 
----
+📂 Folder Structure
 
-## 🌐 External References
+/protocols/ → TX01–TX05 full text + commentary
 
-- **中文版條文與說明** → [Notion 條文頁](https://ruby-porcupine-daf.notion.site/ECP0-1d15c0973c6080e8b701f20cb7275fe0)
+/metadata.json → Governance module index for APIs
 
----
+/LICENSE → Full TAL-E license (to be added)
 
-## ✍️ Authorship
+🌐 External References
 
-**Author**: Erica  
-**Maintainer**: Eriga Enrich Inc.  
-**License**: TAL-E v1.0 (Tone Authorization License – Eriga Edition)
+中文版條文與說明 → Notion 條文頁
 
----
+✍️ Authorship
 
-## 🚫 Usage Warning
+Author: EricaMaintainer: Eriga Enrich Inc.License: TAL-E v1.0 (Tone Authorization License – Eriga Edition)
+
+🚫 Usage Warning
 
 Unauthorized mimicry or deployment of ECP0 tone governance structures without a valid TAL-E license will be considered a violation of authorial tone rights.
+
