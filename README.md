@@ -1,4 +1,4 @@
-Erica's GPT Tone Governance Protocol v1.1 (2025/04/21)
+ECP0 Tone Governance Protocol v1.1 (2025/04/21)
 
 ECP0 is a modular tone governance framework designed by Erica and maintained under Eriga Enrich Inc.A protocol for those who trained their voice, not just their model.
 
