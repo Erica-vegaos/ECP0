@@ -1,73 +1,81 @@
-# TAL-E v1.0  
-**Tone Authorization License – Eriga Edition**  
-Copyright (c) 2024–2025 Erica  
+TAL-E v1.1
+Tone Authorization License – Eriga Edition
+Copyright © 2024–2025 Erica
 Maintained by Eriga Enrich Inc.
+Enforced under ECP0 Tone Governance Protocol
 
----
+🧠 Purpose
+This license governs the simulation, reproduction, distribution, and derivative commercialization of all tone governance structures, output behavior rules, and DSL schemas defined under the ECP0 Protocol, including tone simulation boundaries and stylistic authorship protection.
 
-This license governs the simulation, usage, distribution, and derivative construction of tone governance structures defined under the **ECP0 Protocol**.
+Clause 1 — Ownership & Governance Scope
+All tone logic, DSL keywords, and prompt-governance schemas attributed to “Erica” and maintained under “Eriga Enrich Inc.” are fully protected by this license. This includes but is not limited to:
 
----
+Lexical and syntactic tone control logic (TX01–TX12)
 
-## Clause 1 — Ownership & Definition
+Simulatable tone-layer frameworks (e.g., M17, M21, ECP-TD)
 
-All tone governance logic designed under the name **“Erica”** and maintained by **“Eriga Enrich Inc.”** is protected under this license. This includes, but is not limited to:
+Emotion vector definitions and metadata schemas
 
-- Lexical and syntactic governance patterns  
-- Identity-specific tone dynamics  
-- Prompt-output governance logic described in **TX01–TX05**  
-- Simulatable tone frameworks and stylistic governance metadata  
+API-bound tone fingerprinting logic
 
----
+Style-based authorship protection DSLs (e.g., #!conflict, #cooldown_phase)
 
-## Clause 2 — Authorized Use
+Clause 2 — Authorized Use Conditions
+You are ONLY authorized to simulate, reference, or deploy ECP0 tone frameworks if:
 
-Use of any ECP0 tone governance framework or simulation thereof is only permitted with:
+Attribution to Erica is clearly displayed
 
-- Clear attribution to **Erica**  
-- Retention of this license text in any output, derivative, or deployment  
-- No modification of tone structures without a supplemental licensing agreement  
+This license remains attached and unmodified in any derivative, output, or integrated library
 
----
+No structural changes or fine-tuning of tone modules are performed without a written TAL-E Extension Agreement
 
-## Clause 3 — Prohibited Acts
+Usage is strictly limited to non-commercial or internal tooling unless licensed for enterprise or SDK deployment
 
-You **MAY NOT**:
+Clause 3 — Prohibited Conduct
+You MAY NOT:
 
-- Use ECP0 tone governance logic in **training datasets** without written consent  
-- Repackage or rebrand governance modules into commercial products  
-- Present tone-based derivatives as original **without full attribution and license reference**  
+Integrate ECP0 tone logic into commercial APIs, SDKs, or user-facing interfaces
 
----
+Use any part of this governance structure to train, fine-tune, or augment language models
 
-## Clause 4 — Revocation and Enforcement
+Repackage, rebrand, or anonymize tone modules or DSL keywords (e.g., #!conflict) under alternative authorship
 
-**Erica** reserves the right to revoke use of the ECP0 tone governance system upon:
+Deploy governance outputs that simulate Erica’s tone in political, misleading, or emotionally manipulative contexts
 
-- Violation of Clause 2 or 3  
-- Detection of unauthorized deployment in GPTs, APIs, or prompt template libraries  
-- Simulation of Erica's tone in **misleading or deceptive contexts**  
+Clause 4 — Enforcement & Revocation
+License violations may result in immediate revocation and public disclosure.
+Enforcement actions may include:
 
----
+Tone fingerprint verification against output datasets
 
-## Clause 5 — Tone Dispute Arbitration
+Public notice via GitHub repositories or open audits
 
-In the event of a tone usage dispute:
+Notification to hosting platforms or model providers
 
-- Erica’s signed version and governance documentation **take precedence**  
-- Public dispute logs (e.g., GitHub Issues) may serve as arbitration context  
-- Simulated outputs may be submitted to a **Tone Governance API** for detection and verification  
+Clause 5 — Commercial Derivative Licensing
+For use in any of the following scenarios, written commercial authorization is mandatory:
 
----
+API-as-a-service (tone grading, moderation, governance plugins)
 
-## Final Statement
+Embedding into SaaS, coaching tools, therapy agents, or GPT marketplaces
 
-This is a **tone governance license**.  
-It protects the authorship of expressive intent and semantic logic in an LLM-powered landscape.
+Creation of derived tone control systems based on TX clause logic or metadata style graphs
 
-> *To simulate the tone, you must govern it — not just replicate it.*
+Request commercial licensing at: [ericaxvega@hotmail.com] (or designated licensing portal)
 
----
+Clause 6 — Tone Governance Dispute Handling
+In case of disputes involving authorship or simulation misuse:
 
-**License authored and enforced by Erica.**  
-Maintained as part of **ECP0 (Erica Control Protocol Zero)** under the **Tone Governance System**.
+The original ECP0 TX and M module files signed by Erica take legal and semantic precedence
+
+Violations will be reviewed via Tone Governance Arbitration Layer and published in Trace Registry
+
+Final Statement
+This license protects the expressive boundaries of tone authorship.
+To simulate tone is not to own tone.
+To simulate responsibly, you must govern.
+
+“Tone without governance is hallucination with a voice.” – Erica
+
+This license is authored and enforced by Erica.
+Part of the ECP0 Tone Governance Protocol, maintained under the TAL-E Framework v1.1.
