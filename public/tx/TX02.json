@@ -1,0 +1,20 @@
+{
+  "id": "TX02",
+  "title": "ToneDrift Clause",
+  "zh_title": "語氣偏移偵測條款",
+  "category": "drift_monitoring",
+  "description": {
+    "en": "Monitors tone deviation across sequential outputs; flags semantic alignment loss.",
+    "zh": "偵測連續對話中的語氣偏移，並標記語義連貫性中斷的風險。"
+  },
+  "trigger": {
+    "en": "Triggered when tone inconsistency appears across 3 or more sequential messages.",
+    "zh": "當模型在連續 3 句以上對話中語氣出現不一致時觸發。"
+  },
+  "enforcement": {
+    "en": "Logs tone entropy and invokes drift tracker engine.",
+    "zh": "紀錄語氣偏移指標並啟用偏移追蹤模組。"
+  },
+  "linked_module": "M02",
+  "license_level": "Open"
+}

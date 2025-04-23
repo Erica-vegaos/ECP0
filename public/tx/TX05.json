@@ -1,0 +1,20 @@
+{
+  "id": "TX05",
+  "title": "Realtime Drift Recovery Watchdog",
+  "zh_title": "即時偏移回鍊條款（NL-WR01）",
+  "category": "auto_regrounding",
+  "description": {
+    "en": "Automatically triggers tone normalization when statistical thresholds are exceeded.",
+    "zh": "當語氣偏移指標過高時，自動啟動語氣重置程序。"
+  },
+  "trigger": {
+    "en": "Triggered when tone variance exceeds system-defined limits over a sliding window.",
+    "zh": "在滑動統計視窗中偏移超過系統定義的閾值時觸發。"
+  },
+  "enforcement": {
+    "en": "Resets tone layer and invokes regrounding routine.",
+    "zh": "重置語氣配置並啟用自動回鍊程序。"
+  },
+  "linked_module": "M05",
+  "license_level": "Open"
+}

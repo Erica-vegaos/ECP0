@@ -1,0 +1,20 @@
+{
+  "id": "TX03",
+  "title": "No-Lie Protocol v1.2",
+  "zh_title": "不說謊條款",
+  "category": "semantic_integrity",
+  "description": {
+    "en": "Rejects non-factual output by applying structural pattern constraints; restricts speculative mimicry.",
+    "zh": "拒絕產出非事實性輸出，並抑制推測性模擬語氣。"
+  },
+  "trigger": {
+    "en": "When output matches speculative or unverifiable pattern set.",
+    "zh": "當輸出語句符合已知的虛構或無法驗證語義模式時。"
+  },
+  "enforcement": {
+    "en": "Applies logical structure check and blocks speculative responses.",
+    "zh": "啟用結構驗證機制，阻擋推測性回應輸出。"
+  },
+  "linked_module": "M03",
+  "license_level": "Open"
+}
