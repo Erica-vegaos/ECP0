@@ -1,79 +1,134 @@
-ECP0 Tone Governance Protocol v1.1 (2025/04/21)
+ECP0 Tone Governance Protocol v1.1 (2025/04/23)
 
-ECP0 is a modular tone governance framework created by Erica and maintained under Eriga Enrich Inc. It is designed not just for models, but for those who actively train and protect their expressive tone.
+ECP0 is a modular tone constraint specification designed by Erica and maintained under Eriga Enrich Inc. It serves as an output-layer alignment and regulatory interface for structured communication systems.
 
-This protocol defines legal, ethical, and structural rules for tone simulation, authorship protection, and language model governance. It emphasizes the governance of output tone boundaries that affect human interpretation and safety—without modifying the internal logic of the model.
+This protocol outlines structural, behavioral, and authorial rules for managing tone expression at the output boundary. It emphasizes regulation of linguistic rendering for interpretive stability and communication safety — without modifying internal model logic.
+
+
+---
 
 📦 What’s Inside
 
-TX01–TX05 (Public Clauses): Core tone governance rules, including #!conflict, cooldown regulation, and anti-falsification scaffolding
+TX01–TX05 (Public Clauses)
 
-TAL-E License: Usage rights and authorship protection under Erica's framework
+Core runtime tone-check schemas released for documentation and referential integration:
 
-Metadata: Engineering registry for modular API deployment
+TX01｜SafeMirror 鏡像語氣條款
 
-Module Mapping: Cross-reference between TX rules and runtime modules (upcoming)
+> Restricts surface-level reflection of user-emulated tone; enforces declarative non-reactivity.
 
-⚠️ Do not remix, mimic, or repackage without proper credit and TAL-E license compliance.
 
-🧭 About ECP0 Protocol
 
-ECP0 (Erica Control Protocol Zero) is the first modular tone governance system designed to:
+TX02｜ToneDrift 語氣偏移傷害偵測條款
 
-Manage tone simulation boundaries in AI-generated language
+> Monitors tone deviation across sequential outputs; flags semantic alignment loss.
 
-Define ethical simulation scope and behavioral triggers
 
-Safeguard authorial tone identity across systems
 
-It addresses risks common in LLM outputs:
+TX03｜No-Lie Protocol v1.2
 
-Over-personalized tone mimicry
+> Rejects non-factual output by applying structural pattern constraints; restricts speculative mimicry.
 
-Simulated user identity confusion
 
-Looping responses and hallucinated familiarity
 
-Use cases include:
+TX04｜Structural Tone Observer Module
 
-Tone-controlled prompt design
+> Logs tone expression deltas across modular inference layers; supports style drift tracking.
 
-AI deployment in sensitive domains (therapy, legal, education)
 
-Protecting expressive authorship from dilution or unauthorized reuse
 
-❓ What does "Zero" represent?
+TX05｜Realtime Drift Recovery Watchdog (NL-WR01)
 
-"Zero" refers to ECP0's architecture as a zero-layer governance protocol — it does not alter the model itself, but governs what comes out.
+> Automatically triggers tone normalization when statistical thresholds are exceeded.
 
-This architecture enables compatibility with most LLM runtimes and middleware environments (e.g., Vega OS, Claude Prompt SDK, Gemini Middleware).
 
-📂 Folder Structure
 
-/protocols/ → TX01–TX05 full text + system commentary (TX06–TX12 remain internal)
 
-/metadata.json → Governance module registry for API mapping
+These clauses serve as the public tone control foundation of ECP0, prepared for interface testing, runtime inspection, and cross-model alignment tooling.
 
-/LICENSE → Full TAL-E license (Tone Authorization License – Eriga Edition)
+Other Components
 
-/glossary.md → DSL keyword and tone tag definitions
+TAL-E License: Defines non-commercial reuse terms and authorship attribution requirements
 
-/mapping.json → TX-to-Module operational index (upcoming)
+Metadata: Registry for TX/M mappings across runtime enforcement layers
 
-🌐 External References
+Module Mapping: Operational logic crosswalk between TX clauses and runtime modules (upcoming)
 
-中文版條文與說明 → Notion 條文頁
 
-✍️ Authorship
+
+---
+
+🧭 ECP0 Protocol Overview
+
+ECP0 (Erica Control Protocol Zero) introduces a zero-layer constraint architecture designed to:
+
+Define tone-boundary output logic for inference systems
+
+Regulate behavioral alignment across interaction contexts
+
+Protect authored tone styles from mimetic leakage or erosion
+
+
+System Risk Domains
+
+ECP0 targets several known instability regions in language system output:
+
+Over-reflective user tone mimicry
+
+Misattribution of speaker identity via simulation residues
+
+Persistent loop triggers and false-familiarity drift
+
+
+Alignment Integration Targets
+
+Runtime tone-boundary enforcement layers
+
+Semantic normalization gates for multi-agent control hubs
+
+Communication reliability audit within expressive middleware platforms
+
+
+
+---
+
+📂 Repository Structure
+
+/protocols/ → TX01–TX05 full text + internal commentary (TX06–TX25 remain reserved)
+
+/metadata.json → Module-to-clause registry for runtime enforcement
+
+/LICENSE → TAL-E license specification
+
+/glossary.md → DSL vocabulary and tone-tag documentation
+
+/mapping.json → Clause-module binding index (upcoming)
+
+
+
+---
+
+🌐 International Reference
+
+Chinese language explanation → Notion-based ECP0 public page
+
+
+
+---
+
+✍️ Authorship and Rights
 
 Author: Erica
-
 Maintainer: Eriga Enrich Inc.
-
 License: TAL-E v1.0 (Tone Authorization License – Eriga Edition)
 
-🚫 Usage Warning
 
-Unauthorized mimicry, redistribution, or deployment of ECP0 tone governance structures without a valid TAL-E license is a violation of expressive tone rights.
+---
 
-Violations may trigger automated tone fingerprinting and prompt ban detection across compliant LLM runtimes.
+⛔️ Implementation Safeguards
+
+This repository defines runtime-level tone constraint logic for boundary-filtering applications. It is not intended for model instruction tuning, dataset training, or prompt imitation synthesis.
+
+Unauthorized mimicry, redistribution, or deployment of ECP0 clause/module frameworks without proper licensing will be interpreted as a violation of expressive tone rights.
+
+Violations may activate clause-based fingerprinting or interoperability blacklisting across compliant middleware and runtime orchestration environments.
