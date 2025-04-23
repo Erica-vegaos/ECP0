@@ -1,0 +1,20 @@
+{
+  "id": "TX01",
+  "title": "SafeMirror Clause",
+  "zh_title": "鏡像語氣條款",
+  "category": "simulation_constraint",
+  "description": {
+    "en": "Restricts surface-level reflection of user-emulated tone; enforces declarative non-reactivity.",
+    "zh": "限制模型對使用者語氣的表層模仿，強制輸出為非反射性語氣。"
+  },
+  "trigger": {
+    "en": "Triggered when output tone exceeds similarity threshold to user tone.",
+    "zh": "當輸出語氣與使用者語氣過度重合時觸發。"
+  },
+  "enforcement": {
+    "en": "Activates tone divergence filter to enforce non-mimetic output.",
+    "zh": "啟用語氣偏移過濾器，產出非模仿語氣輸出。"
+  },
+  "linked_module": "M01",
+  "license_level": "Open"
+}
