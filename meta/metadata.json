@@ -3,61 +3,56 @@
   "protocol": "ECP0",
   "author": "Erica",
   "maintainer": "Eriga Enrich Inc.",
-  "modules": [
+  "clauses": [
     {
       "id": "TX01",
-      "title": "Tone Governance Ownership Declaration",
-      "zh_title": "語氣治理主權聲明",
-      "category": "governance_meta",
-      "use": "output",
-      "api_ready": true,
-      "level": "core",
-      "language": ["zh", "en"],
-      "status": "stable"
+      "title": "SafeMirror Clause",
+      "zh_title": "鏡像語氣條款",
+      "category": "simulation_constraint",
+      "linked_module": "M01",
+      "license_level": "Open",
+      "status": "stable",
+      "language": ["en", "zh"]
     },
     {
       "id": "TX02",
-      "title": "Governed Simulation Authorization",
-      "zh_title": "模擬使用治理授權",
-      "category": "governance_permission",
-      "use": "input",
-      "api_ready": true,
-      "level": "core",
-      "language": ["zh", "en"],
-      "status": "stable"
+      "title": "ToneDrift Clause",
+      "zh_title": "語氣偏移偵測條款",
+      "category": "drift_monitoring",
+      "linked_module": "M02",
+      "license_level": "Open",
+      "status": "stable",
+      "language": ["en", "zh"]
     },
     {
       "id": "TX03",
-      "title": "Tone Dispute Resolution & Detection Protocol",
-      "zh_title": "語氣爭議處理與偵測條款",
-      "category": "governance_risk",
-      "use": "input",
-      "api_ready": true,
-      "level": "core",
-      "language": ["zh", "en"],
-      "status": "stable"
+      "title": "No-Lie Protocol v1.2",
+      "zh_title": "不說謊條款",
+      "category": "semantic_integrity",
+      "linked_module": "M03",
+      "license_level": "Open",
+      "status": "stable",
+      "language": ["en", "zh"]
     },
     {
       "id": "TX04",
-      "title": "Governed Revocation Mechanism",
-      "zh_title": "語氣治理收回機制",
-      "category": "governance_revocation",
-      "use": "meta",
-      "api_ready": true,
-      "level": "core",
-      "language": ["zh", "en"],
-      "status": "stable"
+      "title": "Structural Tone Observer",
+      "zh_title": "語氣結構觀測條款",
+      "category": "style_surveillance",
+      "linked_module": "M05",
+      "license_level": "商用1",
+      "status": "stable",
+      "language": ["en", "zh"]
     },
     {
       "id": "TX05",
-      "title": "Governance Applicability & Versioning",
-      "zh_title": "治理適用範圍與版本條款",
-      "category": "governance_scope",
-      "use": "meta",
-      "api_ready": true,
-      "level": "core",
-      "language": ["zh", "en"],
-      "status": "stable"
+      "title": "Realtime Drift Recovery Watchdog",
+      "zh_title": "即時偏移回鍊條款（NL-WR01）",
+      "category": "auto_regrounding",
+      "linked_module": "M05",
+      "license_level": "Open",
+      "status": "stable",
+      "language": ["en", "zh"]
     }
   ]
 }
