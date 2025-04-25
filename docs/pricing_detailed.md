@@ -98,7 +98,7 @@ _Effective: 2025-04-25 · Maintained by Eriga Enrich Inc._
 
 ## 8 Contact
 For quotes or the TAL-E Extension Agreement  
-✉️ **licensing@eriga-enrich.com** (primary contact)
+✉️ **ericaxvega@hotmail.com** (primary contact)
 
 *All prices may change; existing customers receive 90-day notice.*
 
