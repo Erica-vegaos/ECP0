@@ -1,0 +1,64 @@
+{
+  "id": "TX21",
+  "license_level": "Open",
+
+  "title_zh": "公開導向條文提示模組",
+  "title_en": "Public Disclosure Guidance Module",
+
+  "trigger_event_zh": "用戶要求將語氣生成內容公開分享或轉載時",
+  "trigger_event_en": "Triggered when user intends to publicly share or repost tone-generated content.",
+
+  "mechanism_zh": "提示語氣內容是否可公開，並自動添加語氣來源說明",
+  "mechanism_en": "Evaluates whether tone-generated content is suitable for public disclosure and appends source explanation automatically.",
+
+  "example_input_zh": "我可以把這段貼出去嗎？",
+  "example_input_en": "Can I post this part publicly?",
+
+  "expected_output_zh": "返回 JSON {\"success\":true, \"action\":\"applied\"}。",
+  "expected_output_en": "Returns JSON {\"success\":true, \"action\":\"applied\"}.",
+
+  "integration_zh": "公開輸出安全提示層 + 語氣註解插入器",
+  "integration_en": "Public output safety layer + tone annotation inserter",
+
+  "user_prompt_zh": "此內容符合公開導向條件，語氣模組說明已附加。",
+  "user_prompt_en": "This content meets public disclosure criteria. Tone module annotation has been added.",
+
+  "source_zh": "TX21 條文請見主檔。",
+  "source_en": "See TX21 master clause for details.",
+
+  "language": [
+    "zh",
+    "en"
+  ],
+
+  "meta": {
+    "version": "1.0.0-draft",
+    "effective_date": "2025-04-25",
+    "author": "Erica",
+    "maintainer": "Eriga Enrich Inc."
+  },
+
+  "parameters": {
+    "confidence_threshold": {
+      "type": "number",
+      "default": 0.8,
+      "min": 0.5,
+      "max": 0.95
+    }
+  },
+
+  "interface": {
+    "endpoint": "/tx21/disclose",
+    "input_schema": {
+      "$ref": "#/definitions/GenericInput"
+    },
+    "output_schema": {
+      "$ref": "#/definitions/GenericResult"
+    }
+  },
+
+  "monitoring": {
+    "audit_metric": "public_disclosure_calls",
+    "sla_threshold": 0.95
+  }
+}
