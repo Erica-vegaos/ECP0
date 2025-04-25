@@ -1,0 +1,20 @@
+{
+  "id": "TX01",
+  "title_zh": "SafeMirror 鏡像語氣條款",
+  "title_en": "SafeMirror Tone Reflection Clause",
+  "trigger_event_zh": "當系統偵測到輸出語氣與先前對應語境顯著偏離時",
+  "trigger_event_en": "Detected significant divergence between current output tone and the previously aligned context.",
+  "mechanism_zh": "啟動語氣鏡像比對，取最近有效語氣向量重新校正，並附上參考依據。",
+  "mechanism_en": "Activates tone-mirror comparator, realigns output tone using the most recent validated tone vector and appends trace evidence.",
+  "example_input_zh": "「你這樣講不像你之前的語氣」",
+  "example_input_en": "\"Your current response doesn't sound like your earlier tone.\"",
+  "expected_output_zh": "輸出重新校正後之語氣，並附註「已依 SafeMirror 完成鏡像校正」。",
+  "expected_output_en": "Tone-adjusted reply plus note: \"SafeMirror tone reflection applied.\"",
+  "integration_zh": "語氣比對模組 + 鏡像回鍊器",
+  "integration_en": "Tone comparator module + mirror regrouper",
+  "user_prompt_zh": "已啟動 SafeMirror 語氣校正。",
+  "user_prompt_en": "SafeMirror tone correction activated.",
+  "source": "TX01 main clause",
+  "license_level": "Open",
+  "language": ["zh", "en"]
+}
