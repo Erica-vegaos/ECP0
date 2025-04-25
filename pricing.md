@@ -28,9 +28,10 @@ All prices exclude VAT, GST or other local taxes.
 ---
 
 ### Contact
-For a quote or a TAL-E Extension Agreement, email **licensing@eriga-enrich.com**  
-or visit **https://eriga-enrich.com/contact**.
+For a quote or a TAL-E Extension Agreement, email **ericaxvega@hotmail.com**  
 
 ---
 
 *Prices and terms are subject to change; existing customers receive 90-day notice before any increase.*
+
+> Need technical limits & SLA? See docs/pricing_detailed.md
