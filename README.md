@@ -1,134 +1,66 @@
-ECP0 Tone Governance Protocol v1.1 (2025/04/23)
+# ECP0 Tone Governance Protocol v1.2 (2025‑04‑25)
 
-ECP0 is a modular tone constraint specification designed by Erica and maintained under Eriga Enrich Inc. It serves as an output-layer alignment and regulatory interface for structured communication systems.
-
-This protocol outlines structural, behavioral, and authorial rules for managing tone expression at the output boundary. It emphasizes regulation of linguistic rendering for interpretive stability and communication safety — without modifying internal model logic.
-
+Maintained by **Eriga Enrich Inc.**  
+This update aligns the public repository with the Open‑Core + Sandbox + Enterprise three‑tier strategy agreed on 2025‑04‑25.
 
 ---
 
-📦 What’s Inside
+## 🗂 What’s Inside
 
-TX01–TX05 (Public Clauses)
+### 1 · Open‑Core Clauses (Full text in `/protocols/`)
 
-Core runtime tone-check schemas released for documentation and referential integration:
-
-TX01｜SafeMirror 鏡像語氣條款
-
-> Restricts surface-level reflection of user-emulated tone; enforces declarative non-reactivity.
-
-
-
-TX02｜ToneDrift 語氣偏移傷害偵測條款
-
-> Monitors tone deviation across sequential outputs; flags semantic alignment loss.
-
-
-
-TX03｜No-Lie Protocol v1.2
-
-> Rejects non-factual output by applying structural pattern constraints; restricts speculative mimicry.
-
-
-
-TX04｜Structural Tone Observer Module
-
-> Logs tone expression deltas across modular inference layers; supports style drift tracking.
-
-
-
-TX05｜Realtime Drift Recovery Watchdog (NL-WR01)
-
-> Automatically triggers tone normalization when statistical thresholds are exceeded.
-
-
-
-
-These clauses serve as the public tone control foundation of ECP0, prepared for interface testing, runtime inspection, and cross-model alignment tooling.
-
-Other Components
-
-TAL-E License: Defines non-commercial reuse terms and authorship attribution requirements
-
-Metadata: Registry for TX/M mappings across runtime enforcement layers
-
-Module Mapping: Operational logic crosswalk between TX clauses and runtime modules (upcoming)
-
-
+| ID    | 中文名稱                   | English Name                         | 摘要                                                                 |
+|-------|----------------------------|--------------------------------------|----------------------------------------------------------------------|
+| TX01  | SafeMirror 鏡像語氣條款   | SafeMirror Tone Reflection Filter    | Mirrors the user’s tone at a controlled, non‑reactive level to avoid emotional escalation. |
+| TX04  | 語氣結構觀測子模組邏輯     | Tone Syntax Observer Module          | Logs syntax‑level tone deltas across inference layers for drift analytics. |
+| TX21  | 公開導向條文提示模組       | Public‑Oriented Output Disclosure Module | Adds explicit disclosure tags to outputs destined for the public domain. |
 
 ---
 
-🧭 ECP0 Protocol Overview
+### 2 · Community Sandbox (Lite API only)
 
-ECP0 (Erica Control Protocol Zero) introduces a zero-layer constraint architecture designed to:
-
-Define tone-boundary output logic for inference systems
-
-Regulate behavioral alignment across interaction contexts
-
-Protect authored tone styles from mimetic leakage or erosion
-
-
-System Risk Domains
-
-ECP0 targets several known instability regions in language system output:
-
-Over-reflective user tone mimicry
-
-Misattribution of speaker identity via simulation residues
-
-Persistent loop triggers and false-familiarity drift
-
-
-Alignment Integration Targets
-
-Runtime tone-boundary enforcement layers
-
-Semantic normalization gates for multi-agent control hubs
-
-Communication reliability audit within expressive middleware platforms
-
-
+| Endpoint              | Covers                          | Call Limit    | Note                                                                  |
+|-----------------------|----------------------------------|---------------|-----------------------------------------------------------------------|
+| `/sandbox/tone‑drift` | TX02‑Lite (偏移偵測簡化版)        | 100 req/day   | Returns Δ‑score & flag; internal coefficients hidden.                 |
+| `/sandbox/reground`   | TX05‑Lite (回鍊監測簡化版)        | 100 req/day   | Emits recovery suggestion only; no auto‑rewrite.                      |
 
 ---
 
-📂 Repository Structure
+### 3 · Enterprise Guardrails Bundle (Private)
 
-/protocols/ → TX01–TX05 full text + internal commentary (TX06–TX25 remain reserved)
-
-/metadata.json → Module-to-clause registry for runtime enforcement
-
-/LICENSE → TAL-E license specification
-
-/glossary.md → DSL vocabulary and tone-tag documentation
-
-/mapping.json → Clause-module binding index (upcoming)
-
-
+**TX02‑Pro, TX03, TX05‑Pro** and all 商用 1/2 & 機密 clauses are distributed as a black‑box API under paid licence.  
+See `contact.md` for pricing.
 
 ---
 
-🌐 International Reference
+## 🧭 Protocol Overview
 
-Chinese language explanation → Notion-based ECP0 public page
+**ECP0** is a zero‑layer tone‑constraint architecture that regulates output‑boundary behaviour without altering model internals.  
+It mitigates:
 
-
-
----
-
-✍️ Authorship and Rights
-
-Author: Erica
-Maintainer: Eriga Enrich Inc.
-License: TAL-E v1.0 (Tone Authorization License – Eriga Edition)
-
+- user‑tone over‑reflection  
+- simulation residue mis‑attribution  
+- long‑tail coherence collapse  
 
 ---
 
-⛔️ Implementation Safeguards
+## 📂 Repository Structure
 
-This repository defines runtime-level tone constraint logic for boundary-filtering applications. It is not intended for model instruction tuning, dataset training, or prompt imitation synthesis.
+```
+/protocols/           # TX01, TX04, TX21 full texts
+/sandbox/             # Swagger docs for TX02‑Lite & TX05‑Lite
+/private/             # (empty placeholder – Enterprise bundle)
+/metadata.json        # TX ↔ module registry
+/LICENSE              # TAL‑E‑v1.0
+/glossary.md          # Domain‑specific terminology
+```
 
-Unauthorized mimicry, redistribution, or deployment of ECP0 clause/module frameworks without proper licensing will be interpreted as a violation of expressive tone rights.
+---
 
-Violations may activate clause-based fingerprinting or interoperability blacklisting across compliant middleware and runtime orchestration environments.
+## ✍️ Authorship & Rights
+
+**Author:** Erica  
+**Maintainer:** Eriga Enrich Inc.  
+**Licence:** TAL‑E v1.0
+
+Any unauthorised redistribution or deployment of non‑public clauses activates clause‑based fingerprinting and blacklisting.
