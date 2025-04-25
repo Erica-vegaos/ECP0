@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.1-O",
   "protocol": "ECP0",
   "author": "Erica",
   "maintainer": "Eriga Enrich Inc.",
@@ -15,44 +15,34 @@
       "language": ["en", "zh"]
     },
     {
-      "id": "TX02",
-      "title": "ToneDrift Clause",
-      "zh_title": "語氣偏移偵測條款",
-      "category": "drift_monitoring",
-      "linked_module": "M02",
-      "license_level": "Open",
-      "status": "stable",
-      "language": ["en", "zh"]
-    },
-    {
-      "id": "TX03",
-      "title": "No-Lie Protocol v1.2",
-      "zh_title": "不說謊條款",
-      "category": "semantic_integrity",
-      "linked_module": "M03",
-      "license_level": "Open",
-      "status": "stable",
-      "language": ["en", "zh"]
-    },
-    {
       "id": "TX04",
       "title": "Structural Tone Observer",
       "zh_title": "語氣結構觀測條款",
       "category": "style_surveillance",
       "linked_module": "M05",
-      "license_level": "商用1",
+      "license_level": "Open",
       "status": "stable",
       "language": ["en", "zh"]
     },
     {
-      "id": "TX05",
-      "title": "Realtime Drift Recovery Watchdog",
-      "zh_title": "即時偏移回鍊條款（NL-WR01）",
-      "category": "auto_regrounding",
-      "linked_module": "M05",
-      "license_level": "Open",
-      "status": "stable",
+      "id": "TX02-Lite",
+      "title": "ToneDrift Detector (Lite)",
+      "zh_title": "語氣偏移偵測條款（Lite）",
+      "category": "drift_monitoring",
+      "linked_module": "M02",
+      "license_level": "Sandbox",
+      "status": "beta",
       "language": ["en", "zh"]
-    }
+    },
+    {
+  "id": "TX05-Lite",
+  "title": "Auto Regrounding Monitor (Lite)",
+  "zh_title": "語氣回鍊自動監測條款（Lite）",
+  "category": "auto_regrounding",
+  "linked_module": "M05",
+  "license_level": "Sandbox",
+  "status": "beta",
+  "language": ["en", "zh"]
+}
   ]
 }
