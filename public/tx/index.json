@@ -3,6 +3,10 @@
     { "id": "TX01",      "file": "TX01.json",      "sha256": "54fc93cb3225a61cca725961ee85b295b59d7b4dba48273d96bd511816cc684a" },
     { "id": "TX04",      "file": "TX04.json",      "sha256": "c0a9bdf560852de0ac90c65b3760b4ab56fb2080c69ffb583f371d74eb55effc" },
     { "id": "TX02-Lite", "file": "TX02-Lite.json", "sha256": "d098d1d5915c4ec87e90898b1b36fd02249209431045e7ececf53cd3ed3d10ce" },
-    { "id": "TX05-Lite", "file": "TX05-Lite.json", "sha256": "e9248fa47eff4300f170cc2dc6657830e5d3ad2c70aa6030a2fc78f921633955" }
+    { "id": "TX05-Lite", "file": "TX05-Lite.json", "sha256": "e9248fa47eff4300f170cc2dc6657830e5d3ad2c70aa6030a2fc78f921633955" },
+    { "id": "TX21",      "file": "TX21.json",      "sha256": "4a411a85e19df1305e3761be8c5e64d73e91f2e40b4e4f074af536df0e087a21" }
   ]
 }
+
+
+
