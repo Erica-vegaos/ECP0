@@ -44,5 +44,17 @@
   "status": "beta",
   "language": ["en", "zh"]
 }
+{
+  "id": "TX21",
+  "title": "Public Disclosure Guidance Module",
+  "zh_title": "公開導向條文提示模組",
+  "category": "public_safety",
+  "linked_module": "M19",  
+  "license_level": "Open",
+  "status": "stable",
+  "language": ["en", "zh"]
+}
+    
+    
   ]
 }
