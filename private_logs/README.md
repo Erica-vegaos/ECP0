@@ -1,4 +1,4 @@
-# 🧩 Private Experimental Logs ｜私人實驗測試紀錄區
+# Private Experimental Logs ｜私人實驗測試紀錄區
 
 This folder is a personal sandbox for recording my ongoing  
 **ECP0 / FRPP experiments** — how ideas evolve,  
@@ -7,11 +7,10 @@ It’s mainly here so I can **look back and see how I was thinking**.
 
 這裡是我記錄 **ECP0 語氣治理與 FRPP 測試過程** 的地方。  
 不是正式研究，只是讓自己能回頭看清：哪些推論成立、哪些只是誤會。  
-算是一種「思考留痕」。
 
 ---
 
-## 📘 Directory Purpose｜用途說明
+##  Directory Purpose｜用途說明
 | 類別 | 說明 |
 |------|------|
 | `FRPP_test_YYYY-MM-DD.md` | 一次實驗紀錄：觀察模型行為、條文反應、推論結果。 |
@@ -20,7 +19,7 @@ It’s mainly here so I can **look back and see how I was thinking**.
 
 ---
 
-## ⚙️ Conventions｜命名與格式
+##  Conventions｜命名與格式
 - **File naming**：`FRPP_test_YYYY-MM-DD.md`
 - **Commit tag**：以 `[LOG]` 或 `[EXPERIMENT]` 開頭。
 - **Language**：中英皆可，但盡量讓未來的自己看得懂。
@@ -31,7 +30,7 @@ It’s mainly here so I can **look back and see how I was thinking**.
 
 ---
 
-## ⚠️ Notice｜注意事項
+##  Notice｜注意事項
 > - This is **not official ECP0 documentation**.  
 > - Logs here may contain **mistakes, early ideas, and half-working theories**.  
 > - Sharing or citing them out of context is **not recommended**.
@@ -42,16 +41,23 @@ It’s mainly here so I can **look back and see how I was thinking**.
 
 ---
 
-## 🧭 Author’s Note｜作者註
+##  Author’s Note｜作者註
+
 Maintained by **Erica**,  
-as a quiet log of experiments, ideas, and unexpected results  
-from the journey of building ECP0 and exploring FRPP.
+as a quiet record of experiments, ideas, and uncertain steps  
+in the long attempt to understand how AI can truly be governed.  
+Since I couldn’t find much related work early on,  
+I often felt caught between clarity and illusion —  
+unsure whether I was seeing progress or just another hallucination.  
+If this path turns out to be a dead end,  
+then at least the traces of failure will remain.
 
 由 **Erica** 維護，  
-只是想留下這段「摸索怎麼讓 AI 真正被治理」的過程，  
-哪怕多數嘗試會失敗，也希望留下軌跡。
+只是想留下這段「摸索怎麼讓 AI 真正被治理」的過程。  
+因為前期一直查不到相關概念，  
+常常處於霧裡看花與懷疑自己是否困在 AI 幻覺之間。  
+如果最後確定這條路走不通，  
+那至少，也留下了失敗的紀錄。
 
----
-
-© 2025 Erica.  
+--
 For personal research & tone governance experiments only.
